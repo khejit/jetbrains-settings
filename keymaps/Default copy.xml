@@ -1,0 +1,15 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="BaseOnThisFunction" />
+  <action id="CallHierarchy" />
+  <action id="ChangesView.ShelveSilently" />
+  <action id="DartCallHierarchy.BaseOnThisFunction" />
+  <action id="DartTypeHierarchy.BaseOnThisType" />
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="LocalHistory.ShowSelectionHistory">
+    <keyboard-shortcut first-keystroke="ctrl alt h" />
+  </action>
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
+</keymap>
