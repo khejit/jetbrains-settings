@@ -4,7 +4,7 @@
     <property name="created">2018-06-13T10:48:01</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-07-17T12:59:07</property>
+    <property name="modified">2018-08-29T13:02:00</property>
     <property name="originalScheme">Coffee Light (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -3468,7 +3468,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="fffbf7" />
+        <option name="EFFECT_COLOR" value="ffbd36" />
         <option name="ERROR_STRIPE_COLOR" value="4f4f4f" />
       </value>
     </option>
