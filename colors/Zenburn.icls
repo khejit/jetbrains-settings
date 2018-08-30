@@ -116,6 +116,13 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="CTRL_CLICKABLE">
+      <value>
+        <option name="FOREGROUND" value="71b9ff" />
+        <option name="EFFECT_COLOR" value="71b9ff" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -421,6 +428,12 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="HTML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="71b9ff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="287bde" />
@@ -460,6 +473,17 @@
     <option name="INTERFACE_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="cae682" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="b485a5" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="JS.REGEXP">
+      <value>
+        <option name="FOREGROUND" value="287bde" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
