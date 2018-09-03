@@ -24,9 +24,6 @@
       </map>
     </option>
     <option name="IS_WHITESPACES_SHOWN" value="true" />
-  </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
+    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
 </application>
