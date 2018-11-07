@@ -478,6 +478,7 @@
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="b485a5" />
+        <option name="BACKGROUND" value="3c3f41" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -572,7 +573,6 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="52503a" />
         <option name="ERROR_STRIPE_COLOR" value="8c8c00" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
