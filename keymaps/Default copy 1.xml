@@ -1,0 +1,8 @@
+<keymap version="1" name="Default copy 1" parent="$default">
+  <action id="BaseOnThisFunction" />
+  <action id="LocalHistory">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
+</keymap>
